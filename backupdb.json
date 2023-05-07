@@ -1,0 +1,25 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "imageURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "type": "Grass",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "Charmander",
+      "imageURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+      "type": "Fire",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "Squirtle",
+      "imageURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+      "type": "Water",
+      "likes": 0
+    }
+  ]
+}

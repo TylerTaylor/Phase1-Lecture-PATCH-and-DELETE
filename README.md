@@ -1,0 +1,1 @@
+In this lecture we will be reviewing some previous concepts, then learn how to set up PATCH and DELETE requests!
