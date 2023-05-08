@@ -79,7 +79,7 @@ function renderPokemon(pokemon) {
 
 function handleDelete(pokemon) {
   // if (window.confirm('Are you sure you want to delete this pokemon?')) {
-    
+    // safe delete!
   // }
 
   // first we want to send our delete request
@@ -92,5 +92,4 @@ function handleDelete(pokemon) {
         document.querySelector(`#pokemon-${pokemon.id}`).remove()
       }
     })
-
 }
